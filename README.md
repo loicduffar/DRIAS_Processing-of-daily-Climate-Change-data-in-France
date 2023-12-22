@@ -35,4 +35,6 @@ Les options de téléchargement suivantes doivent être respectées strictement:
 - Chaque fichiers peut contenir des points multiples et des paramètres multiples, en s'assurant que les différents fichiers ont en commun les mêmes paramètres et points voulus ainsi que l'unité. DE PLUS le nombre de lignes d'entête doit également être commun à tous les fichiers, ce qui n'est pas le cas pour certains modèles dont il faut supprimer ou ajouter quelques lignes d'entête à la main à l'aide d'un éditeur de texte.
 - NB: Le traitement utilise le nom de modèle présent dans le nom des fichiers, ainsi que le nom de scénario ou le mot 'Historical'.
 
-<img src="https://github.com/loicduffar/DRIAS_Processing-of-daily-Climate-Change-data-in-France/blob/main/out/DRIAS%20Quantiles%20annuels%20(m%C3%A9diane%20des%20mod%C3%A8les).png" width="50%"></img>
+<img src="https://github.com/loicduffar/DRIAS_Processing-of-daily-Climate-Change-data-in-France/blob/main/out/DRIAS%20Quantiles%20annuels%20(m%C3%A9diane%20des%20mod%C3%A8les).png" width="40%"></img>
+<img src="https://github.com/loicduffar/DRIAS_Processing-of-daily-Climate-Change-data-in-France/blob/main/out/DRIAS%20Evolution%20de%20la%20valeur%20annuelle.png" width="40%"></img>
+<img src="https://github.com/loicduffar/DRIAS_Processing-of-daily-Climate-Change-data-in-France/blob/main/out/Distribution%20de%20fr%C3%A9quence%20de%20la%20valeur%20annuelle%20pour%20tous%20les%20mod%C3%A8les.png" width="40%"></img>
