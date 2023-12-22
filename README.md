@@ -37,4 +37,4 @@ Les options de téléchargement suivantes doivent être respectées strictement:
 
 <img src="https://github.com/loicduffar/DRIAS_Processing-of-daily-Climate-Change-data-in-France/blob/main/out/DRIAS%20Quantiles%20annuels%20(m%C3%A9diane%20des%20mod%C3%A8les).png" width="40%"></img>
 <img src="https://github.com/loicduffar/DRIAS_Processing-of-daily-Climate-Change-data-in-France/blob/main/out/DRIAS%20Evolution%20de%20la%20valeur%20annuelle.png" width="40%"></img>
-<img src="https://github.com/loicduffar/DRIAS_Processing-of-daily-Climate-Change-data-in-France/blob/main/out/Distribution%20de%20fr%C3%A9quence%20de%20la%20valeur%20annuelle%20pour%20tous%20les%20mod%C3%A8les.png" width="40%"></img>
+<img src="https://github.com/loicduffar/DRIAS_Processing-of-daily-Climate-Change-data-in-France/blob/main/out/Distribution%20de%20fr%C3%A9quence%20de%20la%20valeur%20annuelle%20pour%20tous%20les%20mod%C3%A8les.png" width="60%"></img>
