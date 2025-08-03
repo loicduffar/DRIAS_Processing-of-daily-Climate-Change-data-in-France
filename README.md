@@ -1,4 +1,5 @@
 # DRIAS - Projections climatiques quotidiennes MULTI MODELES
+OBSOLETE depuis la diffusion de la version TRACC-2023 par Météo-France/DRIAS
 ## Calcul d'indicateur et de sa médiane multi modèles pour la moyenne des mailles choisies
 https://github.com/loicduffar/
 
